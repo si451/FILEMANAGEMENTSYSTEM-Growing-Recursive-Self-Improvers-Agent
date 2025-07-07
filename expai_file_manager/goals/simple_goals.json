@@ -1,0 +1,90 @@
+[
+  {
+    "description": "Move backup1.tmp to the 'Documents' folder.",
+    "type": "move"
+  },
+  {
+    "description": "Copy backup1.tmp to the 'Documents' folder.",
+    "type": "copy"
+  },
+  {
+    "description": "Move backup1.tmp to the 'Images' folder.",
+    "type": "move"
+  },
+  {
+    "description": "Copy backup1.tmp to the 'Images' folder.",
+    "type": "copy"
+  },
+  {
+    "description": "Delete backup1.tmp from the sandbox.",
+    "type": "delete"
+  },
+  {
+    "description": "Move file1.txt to the 'Backups' folder.",
+    "type": "move"
+  },
+  {
+    "description": "Copy file1.txt to the 'Backups' folder.",
+    "type": "copy"
+  },
+  {
+    "description": "Move file1.txt to the 'Images' folder.",
+    "type": "move"
+  },
+  {
+    "description": "Copy file1.txt to the 'Images' folder.",
+    "type": "copy"
+  },
+  {
+    "description": "Delete file1.txt from the sandbox.",
+    "type": "delete"
+  },
+  {
+    "description": "Move file2.pdf to the 'Backups' folder.",
+    "type": "move"
+  },
+  {
+    "description": "Copy file2.pdf to the 'Backups' folder.",
+    "type": "copy"
+  },
+  {
+    "description": "Move file2.pdf to the 'Images' folder.",
+    "type": "move"
+  },
+  {
+    "description": "Copy file2.pdf to the 'Images' folder.",
+    "type": "copy"
+  },
+  {
+    "description": "Delete file2.pdf from the sandbox.",
+    "type": "delete"
+  },
+  {
+    "description": "Move image1.jpg to the 'Backups' folder.",
+    "type": "move"
+  },
+  {
+    "description": "Copy image1.jpg to the 'Backups' folder.",
+    "type": "copy"
+  },
+  {
+    "description": "Move image1.jpg to the 'Documents' folder.",
+    "type": "move"
+  },
+  {
+    "description": "Copy image1.jpg to the 'Documents' folder.",
+    "type": "copy"
+  },
+  {
+    "description": "Delete image1.jpg from the sandbox.",
+    "type": "delete"
+  },
+  {
+    "description": "Create file newfile.txt in the sandbox.",
+    "type": "create_file"
+  },
+  {
+    "description": "Create folder 'NewFolder' in the sandbox.",
+    "type": "create_folder"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "pattern": "move",
+    "action_fn": "move_file"
+  },
+  {
+    "pattern": "copy",
+    "action_fn": "copy_file"
+  },
+  {
+    "pattern": "delete",
+    "action_fn": "delete_file"
+  },
+  {
+    "pattern": "create_file",
+    "action_fn": "create_file"
+  },
+  {
+    "pattern": "create_folder",
+    "action_fn": "create_folder"
+  }
+]
